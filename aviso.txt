@@ -1,0 +1,2 @@
+@echo off
+powershell -Command "Write-Host 'Has tenido suerte de que este archivo no sea malicioso. Este es un simple aviso de que alguien podría haberte robado datos de tu equipo. Vigila con los dispositivos que conectas a tu ordenador.'"
